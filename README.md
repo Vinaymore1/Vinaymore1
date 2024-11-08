@@ -46,7 +46,7 @@ A URL shortener application designed to track and manage links. Built with Node.
 
 ## 📈 **GitHub Stats**
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinaymore1&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 🧑‍💻 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/vinay-more-6ba17322b/)
