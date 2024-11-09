@@ -34,10 +34,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on cyberse
 ### [**CipherShare**](https://github.com/Vinaymore1/ciphershare)
 A secure file-sharing web app that integrates Azure Blob Storage for safe file uploads and downloads. Built with React, Tailwind CSS, and Express.
 
-### [**CVE Engine**](https://github.com/Vinaymore1/cve-engine)
+### [**CVE Engine**](https://github.com/Vinaymore1/cve)
 A platform similar to CVE Details and OpenCVE, focused on extracting and visualizing CVE data from NVD feeds and other sources. Built with React and Express.
 
-### [**Flowpay**](https://github.com/Vinaymore1/Swiftpay)
+### [**Swiftpay**](https://github.com/Vinaymore1/Swiftpay)
 A payment gateway for managing transactions and processing payments securely. Features include user authentication and payment history.
 
 ### [**ShortUrl**](https://github.com/Vinaymore1/shorturl)
